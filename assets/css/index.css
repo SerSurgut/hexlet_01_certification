@@ -284,6 +284,9 @@ input[type="button"].btn-outline-primary {
   margin-top: 40px;
   font-size: 30px;
 }
+.footer .footer-info li:first-child {
+  margin: 0;
+}
 .footer .footer-info--separator {
   height: 3px;
   width: 95%;
